@@ -1,0 +1,103 @@
+.App {
+  margin-top: -50px;
+  margin-left: 740px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.center{
+  margin-top:30px;
+  margin-left:95px;
+  font-weight: bold;
+  font-size: x-large;
+  font-family: 'Fira Mono';
+}
+.navtext1{
+  margin-top:-30px;
+  margin-left: 850px;
+  font-size:18px;
+  font-family: 'Fira Mono';
+  font-weight: bold;
+}
+.navtext2{
+  margin-top:-25px;
+  margin-left: 500px;
+  font-size:18px;
+  font-family: 'Fira Mono';
+  font-weight: bold;
+}
+.navtext3{
+  margin-top:-22px;
+  margin-left: 550px;
+  font-size:18px;
+  font-family: 'Fira Mono';
+  font-weight: bold;
+}
+
+.navtext4{
+  margin-top:-22px;
+  margin-left: 600px;
+  font-size:18px;
+  font-family: 'Fira Mono';
+  font-weight: bold;
+  word-spacing: -0.009cm;
+}
+
+.navtext5{
+  margin-top:-22px;
+  margin-left: 650px;
+  font-size:18px;
+  font-family: 'Fira Mono';
+  font-weight: bold;
+}
+.h6{
+  font-family: 'Fira Mono';
+  margin-left: -10px;
+  text-align: inherit;
+}
+.typography{
+  font-family: 'Fira Mono';
+}
+.tr{
+  font-family: 'Fira Mono';
+}
+.td{
+  font-family: 'Fira Mono';
+}
+.hi6{
+  font-family: 'Fira Mono';
+  
+}
